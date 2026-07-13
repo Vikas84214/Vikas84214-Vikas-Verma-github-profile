@@ -4,7 +4,7 @@
   <tr>
     <td align="center" width="30%">
       <!-- PROFILE IMAGE HEADSHOT GRID -->
-      <img src="https://raw.githubusercontent.com/Vikas84214/my-portfolio/main/Vikas.jpeg" width="220px" style="border-radius: 50%; border: 3px solid #9333EA; box-shadow: 0px 4px 15px rgba(147, 51, 234, 0.3);" alt="VIKAS VERMA Profile Headshot" />
+      <img <img src="Vikas.jpeg" width="2200px" style="border-radius: 50%; border: 3px solid #9333EA;" alt="VIKAS VERMA Profile Headshot"/>
     </td>
     <td align="left" width="70%">
       <h3>👋 Welcome to my digital workspace!</h3>
@@ -27,22 +27,22 @@
 
 ## 🎓 Academic Journey & Institutional Focus
 
-*   **🏫 Institution:** Galgotias College of Engineering & Technology (GCET) / Galgotias University[cite: 1]
-*   **🎓 Department:** Computer Science Engineering — Specializing in Artificial Intelligence (CSAI)[cite: 1]
-*   **📅 Timeline:** 2023 – 2027[cite: 1]
-*   **📊 Current Performance Baseline:** 70% aggregate score[cite: 1]
-*   **👥 Leadership Role:** Appointed as **Technical Team Captain**[cite: 1]. Directed student developer sprints across 10 certified nationwide hackathons, handling real-time project pitches, architecture specifications, and data design[cite: 1].
+*   **🏫 Institution:** Galgotias College of Engineering & Technology (GCET) 
+*   **🎓 Department:** Computer Science Engineering — Specializing in Artificial Intelligence (CSAI)
+*   **📅 Timeline:** 2023 – 2027
+*   **📊 Current Performance Baseline:** 70% aggregate score
+*   **👥 Leadership Role:** Appointed as **Technical Team Captain**. Directed student developer sprints across 10 certified nationwide hackathons, handling real-time project pitches, architecture specifications, and data design
 
 ---
 
 ## 💼 Core Software Engineering Industry Experience
 
 ### 🚀 **Full Stack Developer Intern** | *Digital Blink*  
-*(Oct 2025 – Dec 2025)*[cite: 1]
-*   **Responsive Application Architecture:** Built and maintained fully fluid web applications utilizing HTML5, CSS3, JavaScript, and modern layout conventions[cite: 1].
-*   **Database & Systems Engineering:** Handled database management tasks and server integrations using SQL architectures[cite: 1].
-*   **Version Pipelines:** Managed system versions, codebase integrity, branching, and multi-developer merging via robust **Git** and **GitHub** protocols[cite: 1].
-*   **Cross-Functional Collaboration:** Partnered with software engineers to write clean, modular components adhering to secure software engineering lifecycle standards[cite: 1].
+*(Oct 2025 – Dec 2025)*
+*   **Responsive Application Architecture:** Built and maintained fully fluid web applications utilizing HTML5, CSS3, JavaScript, and modern layout conventions.
+*   **Database & Systems Engineering:** Handled database management tasks and server integrations using SQL architectures.
+*   **Version Pipelines:** Managed system versions, codebase integrity, branching, and multi-developer merging via robust **Git** and **GitHub** protocols.
+*   **Cross-Functional Collaboration:** Partnered with software engineers to write clean, modular components adhering to secure software engineering lifecycle standards.
 
 ---
 
@@ -82,10 +82,10 @@
 
 ## 🏆 Key Achievements & Certifications
 
-*   🏅 **National Hackathon Accolades:** Recognized across premier academic and tech hubs including **IIT Guwahati**, **IIT Ropar**, and **STPI** for performance metrics in competitive development[cite: 1].
-*   📈 **Global Coding Merit Badge:** Awarded the Global Coding Merit Certificate by Unstop[cite: 1].
-*   📊 **Data Analytics Training:** Certified in the **IIT Guwahati Power BI Workshop**, focusing on structuring tables, data transformation routines, and complex analytics mapping[cite: 1].
-*   🤖 **GenAI & AI Agent Labs:** Actively engineering automation prompts and multi-agent systems via OpenAI API mechanics[cite: 1].
+*   🏅 **National Hackathon Accolades:** Recognized across premier academic and tech hubs including **IIT Guwahati**, **IIT Ropar**, and **STPI** for performance metrics in competitive development.
+*   📈 **Global Coding Merit Badge:** Awarded the Global Coding Merit Certificate by Unstop.
+*   📊 **Data Analytics Training:** Certified in the **IIT Guwahati Power BI Workshop**, focusing on structuring tables, data transformation routines, and complex analytics mapping.
+*   🤖 **GenAI & AI Agent Labs:** Actively engineering automation prompts and multi-agent systems via OpenAI API mechanics.
 
 ---
 
@@ -104,14 +104,7 @@
 
 ## 🕹️ Beyond the IDE
 
-*   🎨 **UI/UX Strategy:** Writing technical blogs mapping patterns in automated systems and clean minimalist layouts[cite: 1].
-*   ♟️ **Strategic Chess:** Playing tactical real-time chess to sharpen pattern recognition algorithms[cite: 1].
-*   💪 **Calisthenics:** Dedicated to physical fitness and functional training routines[cite: 1].
+*   🎨 **UI/UX Strategy:** Writing technical blogs mapping patterns in automated systems and clean minimalist layouts.
+*   ♟️ **Strategic Chess:** Playing tactical real-time chess to sharpen pattern recognition algorithms.
+*   💪 **Calisthenics:** Dedicated to physical fitness and functional training routines.
 
-```bash
-# Continuous deployment routine...
-while true; do
-  write_efficient_code --role="Software Engineer"
-  optimize_models --specialty="AI & Web"
-  git push origin main
-done

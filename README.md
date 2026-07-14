@@ -17,7 +17,7 @@
       <p>
         <a href="mailto:vikas.23gcebai214@galgotiacollege.edu"><img src="https://img.shields.io/badge/Email-vikas.23gcebai214%40galgotiacollege.edu-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
         <a href="https://wa.me/918471089518"><img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-        <a href="https://github.com/Vikas84214/my-portfolio"><img src="https://img.shields.io/badge/Live_Portfolio-Vikas--Verma-6366f1?style=flat-square&logo=react&logoColor=white" alt="Live Portfolio" /></a>
+        <a href=""https://vikas84214.github.io/Vikas-Verma-Portfolio/""><img src="https://img.shields.io/badge/Live_Portfolio-Vikas--Verma-6366f1?style=flat-square&logo=react&logoColor=white" alt="Live Portfolio" /></a>
       </p>
     </td>
   </tr>

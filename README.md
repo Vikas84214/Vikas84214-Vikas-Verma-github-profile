@@ -4,7 +4,7 @@
   <tr>
     <td align="center" width="30%">
       <!-- PROFILE IMAGE HEADSHOT GRID -->
-      <img <img src="Vikas.jpeg" width="2200px" style="border-radius: 50%; border: 3px solid #9333EA;" alt="VIKAS VERMA Profile Headshot"/>
+      <img <img src="Vikas.jpeg" width="4200px" style="border-radius: 50%; border: 3px solid #9333EA;" alt="VIKAS VERMA Profile Headshot"/>
     </td>
     <td align="left" width="70%">
       <h3>👋 Welcome to my digital workspace!</h3>
